@@ -87,4 +87,4 @@ if Q12 == "당당하고 솔직한 사람":
 else:
     egen_score += 1
 
-if gende
+if gender
